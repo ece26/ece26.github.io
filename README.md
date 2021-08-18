@@ -8,8 +8,8 @@ Disclaimer: The site is neither the property of the University of Waterloo, nor 
 
 ## Contributing to this project:
 
-Please read CONTRIBUTING.md for more information on how you can help make this site even better. If you submit a PR that is approved, you will be added to the list of contributers.
+Please read CONTRIBUTING.md for more information on how you can help make this site even better. If you submit a PR that is approved, you will be added to the list of contributors.
 
-## Contributers:
+## Contributors:
 
 Aiden F., Mahfuzur R.
