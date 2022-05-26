@@ -2,3 +2,18 @@ body {
   background-image: url("thatgirl.webp");
   background-repeat: repeat;
 }
+
+.cool {
+  border-radius: 63px;
+  background: linear-gradient(145deg, #ff189e, #e61485);
+  box-shadow:  24px 24px 48px #8f0c53,
+             -24px -24px 48px #ff20d5;
+  text-align: center;
+  padding: 2em 2em 0.8em 2em;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
